@@ -1,0 +1,16 @@
+
+{
+  "name": "alex-backend",
+  "version": "1.0.0",
+  "description": "Backend per AlexGPT con supporto Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "telegraf": "^4.12.2"
+  }
+}
